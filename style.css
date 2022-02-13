@@ -1,0 +1,11 @@
+h3{
+    font-size: 25px !important;
+    color: black !important;
+}
+canvas{
+    border: 4px black solid;
+}
+
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/01/92/96/90/360_F_192969004_X7suowTbScncMx04AGthwWy3LwhG9JKX.jpg);
+}
